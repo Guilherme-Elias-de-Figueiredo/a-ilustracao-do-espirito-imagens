@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="529.16669mm"
+   height="725.48749mm"
+   viewBox="0 0 529.16669 725.48749"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -25,8 +25,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.1012929"
-     inkscape:cx="-745.36323"
-     inkscape:cy="241.87284"
+     inkscape:cx="-241.87283"
+     inkscape:cy="923.06568"
      inkscape:window-width="1600"
      inkscape:window-height="777"
      inkscape:window-x="0"
@@ -36,7 +36,8 @@
      id="defs1" /><g
      inkscape:label="Camada 1"
      inkscape:groupmode="layer"
-     id="layer1"><image
+     id="layer1"
+     transform="translate(134.14375,180.97499)"><image
        width="529.16669"
        height="725.48749"
        preserveAspectRatio="none"
